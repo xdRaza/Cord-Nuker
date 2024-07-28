@@ -37,3 +37,5 @@ For python version:
 - Discord: walter.lyy
 - Server: https://discord.com/invite/9waxVFduRy
 - insta: @muzammil.py
+## Preview
+![The Fastest Nuker Written In Py](images/your-image.png)
