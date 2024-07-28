@@ -38,4 +38,4 @@ For python version:
 - Server: https://discord.com/invite/9waxVFduRy
 - insta: @muzammil.py
 ## Preview
-![The Fastest Nuker Written In Py](images/your-image.png)
+![The Fastest Nuker Written In Py](imags/your-image.png)
