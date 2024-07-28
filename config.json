@@ -1,0 +1,22 @@
+{
+    "token": "bot-token-here",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "@Walter was here",
+            "hey father there's a bitch",
+            "github.com/Walterlyy",
+            "Reaped"
+        ],
+        "roles_name": [
+            "follow walter",
+            "muzammil.py",
+            "Nothingbruh"
+        ],
+        "messages_content": [
+            "@everyone Got Fucked By Cord Reapers",
+            "@everyone LOL 🤣",
+            "@everyone YOU NEED SOME PROTECTION?"
+        ]
+    }
+}
