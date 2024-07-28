@@ -1,5 +1,5 @@
 {
-    "token": "bot-token-here",
+    "token": "bot-token here",
     "proxy": false,
     "nuke": {
         "channels_name": [
