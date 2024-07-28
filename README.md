@@ -12,7 +12,7 @@ For python version:
 - Install required modules from "requirements.txt"
 - Provide your bot token and channels/roles/messages content in config.json file
 - Provide your proxies (optional)
-- Run Cord.py
+- Run nuker.py
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
